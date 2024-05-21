@@ -1,0 +1,167 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "ISBN": "9780061120084",
+    "genre": "Fiction",
+    "price": 499,
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "summary":"To Kill a Mockingbird is a timeless exploration of morality, empathy, and the consequences of prejudice. It remains a poignant commentary on the human condition and continues to resonate with readers around the world.",
+    "imageCover": "To Kill a Mockingbird.jpg"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "ISBN": "9780451524935",
+    "genre": "Science Fiction",
+    "price": 499,
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "summary":"1984 is a chilling portrayal of the dangers of totalitarianism and the erosion of individual freedom.",
+    "imageCover": "1984.jpg"
+  },
+  { 
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "ISBN": "9780743273565",
+    "genre": "Classic",
+    "price": 499,
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "summary": "The Great Gatsby remains a timeless exploration of love, ambition, and the elusive quest for meaning in a world driven by materialism and illusion.",
+    "imageCover": "The Great Gatsby.jpg"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "ISBN": "9780141439518",
+    "genre": "Romance",
+    "price": 499,
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "summary":"Pride and Prejudice remains a timeless tale of romance, wit, and social commentary, captivating readers with its engaging characters and sparkling dialogue.",
+    "imageCover": "Pride and Prejudice.jpg"
+  },
+  {
+    "title": "To the Lighthouse",
+    "author": "Virginia Woolf",
+    "ISBN": "9780156030471",
+    "genre": "Modernist",
+    "price": 499,
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "summary":"To the Lighthouse is considered one of Woolf's masterpieces and a seminal work of modernist literature. It is celebrated for its lyrical prose, innovative narrative techniques, and profound exploration of the human experience.",
+    "imageCover": "To the Lighthouse.jpg"
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "ISBN": "9781853260087",
+    "genre": "Adventure",
+    "price": 499,
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "summary":"Moby-Dick has since been recognized as a masterpiece of world literature, celebrated for its ambition, complexity, and enduring relevance. It remains a deeply influential and thought-provoking work that continues to captivate readers with its epic scope and profound themes.",
+    "imageCover": "Moby-Dick.jpg"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "ISBN": "9780316769488",
+    "genre": "Coming-of-age",
+    "price": 499,
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "summary":"The Catcher in the Rye is celebrated for its honest portrayal of teenage angst, rebellion, and the search for identity. It has become a classic of American literature, resonating with generations of readers for its authentic voice and timeless themes.",
+    "imageCover": "The Catcher in the Rye.jpg"
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "ISBN": "9780060850524",
+    "genre": "Dystopian",
+    "price": 499,
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "summary":"Brave New World raises questions about the nature of happiness, the limits of progress, and the importance of human dignity.",
+    "imageCover": "Brave New World.jpg"
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Bronte",
+    "ISBN": "9780141441146",
+    "genre": "Gothic",
+    "price": 499,
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "summary":"Jane Eyre is celebrated for its rich characterization, complex themes, and compelling narrative voice. It remains one of the most beloved and enduring works of English literature, captivating readers with its timeless story of love, courage, and the search for identity.",
+    "imageCover": "Jane Eyre.jpg"
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "ISBN": "9780544003415",
+    "genre": "Fantasy",
+    "price": 499,
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "summary":"The Lord of the Rings is a richly imagined world filled with memorable characters, epic battles, and themes of friendship, sacrifice, and the struggle between good and evil.",
+    "imageCover": "The Lord of the Rings.jpg"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "ISBN": "9780261103283",
+    "genre": "Adventure",
+    "price": 499,
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "summary":"The Hobbit is a timeless tale of adventure, friendship, and self-discovery, beloved by readers of all ages for its richly imagined world, memorable characters, and captivating storytelling.",
+    "imageCover": "The Hobbit.jpg"
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "ISBN": "9780590353427",
+    "genre": "Fantasy",
+    "price": 499,
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "summary":"Harry Potter and the Sorcerer's Stone is a captivating tale of magic, friendship, and courage that has captivated readers of all ages around the world.",
+    "imageCover": "Harry Potter and the Sorcerer's Stone.jpg"
+  },
+  {
+    "title": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "ISBN": "9780064404990",
+    "genre": "Fantasy",
+    "price": 499,
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "summary":"The Chronicles of Narnia is beloved for its enchanting storytelling, memorable characters, and timeless themes of courage, friendship, and the battle between good and evil. It remains one of the most beloved and enduring works of children's literature.",
+    "imageCover": "The Chronicles of Narnia.jpg"
+  },
+  {
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "ISBN": "9780345391803",
+    "genre": "Science Fiction",
+    "price": 499,
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "summary":"The Hitchhiker's Guide to the Galaxy is known for its witty humor, imaginative world-building, and satirical take on science fiction tropes and human nature. It has become a cult classic and has spawned sequels, radio dramas, a television series, and a feature film adaptation, all of which continue to delight fans with their irreverent charm and absurdity.",
+    "imageCover": "The Hitchhiker's Guide to the Galaxy.jpg"
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "ISBN": "9780062315007",
+    "genre": "Philosophical",
+    "price": 499,
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "summary":"The Alchemist is a timeless tale of self-discovery, courage, and the pursuit of one's dreams. It has inspired millions of readers around the world with its powerful message of hope and optimism, encouraging them to listen to their hearts and follow their own personal legends.",
+    "imageCover": "The Alchemist.jpg"
+  }
+]
